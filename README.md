@@ -25,9 +25,3 @@ Evaluate the performance of all the models using appropriate evaluation metrics.
 #### Step 6: Bonus (Max Weightage) - Build a Linear Regression Model
 
 As an additional challenge, build a Linear Regression model by performing appropriate feature engineering. This will help you gain a better understanding of linear relationships between variables and serve as a good practice for regression tasks.
-
-
-
-```
-
-In the `notebooks` folder, create separate Jupyter notebooks for data analysis, machine learning model building, and the linear regression model. In the `src` folder, include Python scripts for data preprocessing, outlier detection, feature engineering, and model evaluation.

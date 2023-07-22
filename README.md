@@ -2,9 +2,9 @@
 
 ### Task 🧟‍♂️💻
 
-#### Step 1: Download the dataset from the link available above.
+#### Step 1: Download the dataset from the above.
 
-The dataset can be found in the 'data' folder of this repository. Please download it and use it for analysis and model building.
+The dataset can be found in the 'data' this repository. Please download it and use it for analysis and model building.
 
 #### Step 2: Perform Proper Analysis of the Dataset
 
